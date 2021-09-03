@@ -1,0 +1,16 @@
+
+
+.photo-profile{
+  width: 120px;
+  height: 120px;
+
+  padding: 10px;
+  border: 1px solid #aaa;
+  border-radius: 50%;
+
+  object-fit: cover;
+  object-position: top;
+
+  background-color: rgb(40, 197, 202);
+ 
+}
